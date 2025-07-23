@@ -1,1 +1,1 @@
-## This is super serious, no **joke**.
+This is super serious, no **joke**.
